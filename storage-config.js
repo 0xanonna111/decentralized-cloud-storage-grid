@@ -1,0 +1,6 @@
+export const GRID_CONFIG = {
+    REPLICATION_FACTOR: 3,
+    MIN_COLLATERAL_STAKE: "1000 GRID",
+    CHALLENGE_FREQUENCY_BLOCKS: 100,
+    STORAGE_TYPE: "Content-Addressed (IPFS-compatible)"
+};
